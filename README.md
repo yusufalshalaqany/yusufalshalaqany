@@ -36,10 +36,3 @@
 
 
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=yusufalshalaqany&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="yusufalshalaqany&#39;s Stats">
-  </a>
-
-
-
